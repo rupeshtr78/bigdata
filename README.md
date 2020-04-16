@@ -7,3 +7,4 @@ Spark Streaming And Big Data Technologies
 - [Spark Kafka Streams with Cassandra Sink](Spark-structured-kafka-cassandra.md)
 - [Spark Twitter Feed](Twitter-custom-receiver.md)
 - [Spark HDFS Hive](Spark-Hdfs-Hive.md)
+- [Presto Cassandra Hive](Presto-hive-cassandra.md)
