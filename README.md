@@ -8,3 +8,4 @@ Spark Streaming And Big Data Technologies
 - [Spark Twitter Feed](Twitter-custom-receiver.md)
 - [Spark HDFS Hive](Spark-Hdfs-Hive.md)
 - [Presto Cassandra Hive](Presto-hive-cassandra.md)
+- [Hue Oozie](Hue-Oozie-hive.md)
